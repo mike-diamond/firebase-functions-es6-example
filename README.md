@@ -1,6 +1,6 @@
 # [DEPRECATED] ES6+ in Cloud Functions for Firebase
 
-This example is deprecated in favour of [ES6+ in Cloud Functions 2](https://medium.com/@jthegedus/es6-in-cloud-functions-for-firebase-2-415d15205468) and it's folder in my [blog-examples](https://github.com/jthegedus/blog-examples/tree/master/firebase-functions-es6-babel) repo.
+This example is deprecated in favour of [ES6+ in Cloud Functions 2](https://medium.com/@jthegedus/es6-in-cloud-functions-for-firebase-2-415d15205468) and it's folder in my [blog-examples](https://github.com/jthegedus/firebase-gcp-examples) repo.
 
 ---
 
